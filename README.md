@@ -14,6 +14,13 @@ I am proficient in **Russian and English** (IELTS Band 8.0, July 2025), currentl
 
 > This space was intentionally left blank — until I come up with a good quote. 👀
 
+
+## Featured Projects
+| Project                                                                                                  | Description                                                                                                                                                                                 | Field                                                   |
+| -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------- |
+| **[Pinyin Type](https://github.com/Musalimov/Pinyin-Type)**                                               | A browser extension that allows users to type tone-marked Pinyin directly in web fields. Built for Chinese learners, students, and teachers. The project has grown to **150+ daily users**. | JavaScript / HTML / CSS / Chrome Extension / Language Learning |
+| **[VK Archive: Attachments Downloader](https://github.com/Musalimov/VK-Archive-Attachments-Downloader)** | A Python desktop tool for processing exported VK chat archives, downloading media attachments locally, and rewriting archive HTML pages for offline use.                                    | Python / Tkinter / Desktop App / Automation             |
+
 ## Work Experience
 
 | Period              | Organization      | Role              | Description                                                                                                                                                                                                                                                               |
@@ -29,12 +36,3 @@ I am proficient in **Russian and English** (IELTS Band 8.0, July 2025), currentl
 | Sep 2023 – Feb 2025 | **Moscow State Institute of International Relations (MGIMO)** | Bachelor of Economics, International Business and Finance   | Economics, finance, international business                  |
 | Sep 2021 – Jun 2023 | **Russian Foreign Trade Academy**                             | Bachelor of Economics, International Cooperation with China | Economics, Mandarin Chinese |
 | 2010 – 2021         | **A.M. Alymov Municipal Secondary School**                    | Certificate of Secondary General Education                  | Chairperson of the School Parliament                        |
-
-
-## Featured Projects
-
-| Project                                                                                                  | Field                                | Description                                                                                                                                                                                 | Status |
-| -------------------------------------------------------------------------------------------------------- | ------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ |
-| **Pinyin Type**                                                                                          | Chrome Extension / Language Learning | A browser extension that allows users to type tone-marked Pinyin directly in web fields. Built for Chinese learners, students, and teachers. The project has grown to **150+ daily users**. | Active |
-| **[VK Archive: Attachments Downloader](https://github.com/Musalimov/VK-Archive-Attachments-Downloader)** | Python / Desktop App / Automation    | A Python desktop tool for processing exported VK chat archives, downloading media attachments locally, and rewriting archive HTML pages for offline use.                                    | Public |
-
