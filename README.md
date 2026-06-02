@@ -1,16 +1,54 @@
-## Hi there 👋
+# Hi, I'm Robert! 👋
 
-<!--
-**Musalimov/Musalimov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**International Business student @ University of Wollongong in Dubai · Python Developer · AI/ML Enthusiast**
 
-Here are some ideas to get you started:
+Happily married and endlessly curious about **business, cultures, languages, mathematics, and technology**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am an undergraduate **International Business** student at the **University of Wollongong in Dubai (UOWD)**. My studies give me a strong foundation in **international business, economics, marketing, and business strategy**, while my personal projects help me explore how digital products can solve practical problems for real users.
+
+I created **Pinyin Type**, a Chrome extension that helps Chinese learners type Pinyin with tone marks directly in the browser. The project has grown to **150+ daily users** and reflects my interest in combining **language learning, education, and technology**.
+
+I am proficient in **Russian and English** (IELTS Band 8.0, July 2025), currently learning **Chinese and French**, and I am especially interested in digital products, automation, and AI-assisted software development. 
+
+---
+
+## Work Experience
+
+| Period              | Organization      | Role              | Description                                                                                                                                                                                                                                                               |
+| ------------------- | ----------------- | ----------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Jan 2021 – Present  | **Self-employed** | Mathematics Tutor | Teach mathematics in Russian and English, helping students with school mathematics, homework, exam preparation, advanced problem-solving, and olympiad-style geometry. Focused on explaining complex ideas clearly and building step-by-step understanding.               |
+| Aug 2023 – Feb 2024 | **Foxford**       | Mathematics Tutor | Worked remotely as a Mathematics Tutor at Foxford, an online education platform supporting school students with academic improvement and exam preparation. Helped students understand mathematical concepts clearly and build confidence through structured explanations. |
+
+---
+
+## Education
+
+| Period              | Institution                                                   | Degree / Program                                            | Highlights                                                       |
+| ------------------- | ------------------------------------------------------------- | ----------------------------------------------------------- | ----------------------------------------------------------- |
+| Sep 2025 – Now | **University of Wollongong in Dubai**                         | Bachelor’s degree, International Business                   | International business, marketing, economics, strategy      |
+| Sep 2023 – Feb 2025 | **Moscow State Institute of International Relations (MGIMO)** | Bachelor of Economics, International Business and Finance   | Economics, finance, international business                  |
+| Sep 2021 – Jun 2023 | **Russian Foreign Trade Academy**                             | Bachelor of Economics, International Cooperation with China | Economics, Mandarin Chinese |
+| 2010 – 2021         | **A.M. Alymov Municipal Secondary School**                    | Certificate of Secondary General Education                  | Chairperson of the School Parliament                        |
+
+---
+
+## Featured Projects
+
+| Project                                                                                                  | Field                                | Description                                                                                                                                                                                 | Status |
+| -------------------------------------------------------------------------------------------------------- | ------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ |
+| **Pinyin Type**                                                                                          | Chrome Extension / Language Learning | A browser extension that allows users to type tone-marked Pinyin directly in web fields. Built for Chinese learners, students, and teachers. The project has grown to **150+ daily users**. | Active |
+| **[VK Archive: Attachments Downloader](https://github.com/Musalimov/VK-Archive-Attachments-Downloader)** | Python / Desktop App / Automation    | A Python desktop tool for processing exported VK chat archives, downloading media attachments locally, and rewriting archive HTML pages for offline use.                                    | Public |
+
+---
+
+## What I Am Currently Working On
+
+* Building practical Python and browser-based tools
+* Improving my software development portfolio on GitHub
+* Learning more about AI, automation, and product development
+* Studying international business, marketing, and strategy
+* Developing projects that combine languages, education, and technology
+
+---
+
+> This space was intentionally left blank — until I come up with a good quote. 👀
