@@ -1,7 +1,5 @@
 ### Hi, I'm Robert! 👋
 
-**International Business student @ University of Wollongong in Dubai · Python Developer · AI/ML Enthusiast**
-
 Happily married and endlessly curious about **business, cultures, languages, mathematics, and technology**.
 
 I am an undergraduate **International Business** student at the **University of Wollongong in Dubai (UOWD)**. My studies give me a strong foundation in **international business, economics, marketing, and business strategy**, while my personal projects help me explore how digital products can solve practical problems for real users.
