@@ -12,11 +12,12 @@ I am proficient in **Russian and English** (IELTS Band 8.0, July 2025), currentl
 
 > This space was intentionally left blank — until I come up with a good quote. 👀
 
-
 ## Featured Projects
+
 | Project                                                                                                  | Description                                                                                                                                                                                 | Field                                                   |
 | -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------- |
 | **[Pinyin Type](https://github.com/Musalimov/Pinyin-Type)**                                               | A browser extension that allows users to type tone-marked Pinyin directly in web fields. Built for Chinese learners, students, and teachers. The project has grown to **150+ daily users**. | JavaScript / HTML / CSS / Chrome Extension / Language Learning |
+| **[Vremya Rebusov Pentest](https://github.com/Musalimov/Vremya-Rebusov-Pentest)**                         | A research pentest project analyzing a Telegram rebus game using pHash image matching and historical solve-time metadata. Built to test resistance to image-based lookup.                  | Python / Tkinter / pHash / Image Matching / Pentest     |
 | **[VK Archive: Attachments Downloader](https://github.com/Musalimov/VK-Archive-Attachments-Downloader)** | A Python desktop tool for processing exported VK chat archives, downloading media attachments locally, and rewriting archive HTML pages for offline use.                                    | Python / Tkinter / Desktop App / Automation             |
 
 ## Work Experience
