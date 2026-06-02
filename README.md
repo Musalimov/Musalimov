@@ -1,4 +1,4 @@
-# Hi, I'm Robert! 👋
+### Hi, I'm Robert! 👋
 
 **International Business student @ University of Wollongong in Dubai · Python Developer · AI/ML Enthusiast**
 
@@ -10,7 +10,7 @@ I created **Pinyin Type**, a Chrome extension that helps Chinese learners type P
 
 I am proficient in **Russian and English** (IELTS Band 8.0, July 2025), currently learning **Chinese and French**, and I am especially interested in digital products, automation, and AI-assisted software development. 
 
----
+> This space was intentionally left blank — until I come up with a good quote. 👀
 
 ## Work Experience
 
@@ -18,8 +18,6 @@ I am proficient in **Russian and English** (IELTS Band 8.0, July 2025), currentl
 | ------------------- | ----------------- | ----------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Jan 2021 – Present  | **Self-employed** | Mathematics Tutor | Teach mathematics in Russian and English, helping students with school mathematics, homework, exam preparation, advanced problem-solving, and olympiad-style geometry. Focused on explaining complex ideas clearly and building step-by-step understanding.               |
 | Aug 2023 – Feb 2024 | **Foxford**       | Mathematics Tutor | Worked remotely as a Mathematics Tutor at Foxford, an online education platform supporting school students with academic improvement and exam preparation. Helped students understand mathematical concepts clearly and build confidence through structured explanations. |
-
----
 
 ## Education
 
@@ -30,7 +28,6 @@ I am proficient in **Russian and English** (IELTS Band 8.0, July 2025), currentl
 | Sep 2021 – Jun 2023 | **Russian Foreign Trade Academy**                             | Bachelor of Economics, International Cooperation with China | Economics, Mandarin Chinese |
 | 2010 – 2021         | **A.M. Alymov Municipal Secondary School**                    | Certificate of Secondary General Education                  | Chairperson of the School Parliament                        |
 
----
 
 ## Featured Projects
 
@@ -39,6 +36,3 @@ I am proficient in **Russian and English** (IELTS Band 8.0, July 2025), currentl
 | **Pinyin Type**                                                                                          | Chrome Extension / Language Learning | A browser extension that allows users to type tone-marked Pinyin directly in web fields. Built for Chinese learners, students, and teachers. The project has grown to **150+ daily users**. | Active |
 | **[VK Archive: Attachments Downloader](https://github.com/Musalimov/VK-Archive-Attachments-Downloader)** | Python / Desktop App / Automation    | A Python desktop tool for processing exported VK chat archives, downloading media attachments locally, and rewriting archive HTML pages for offline use.                                    | Public |
 
----
-
-> This space was intentionally left blank — until I come up with a good quote. 👀
