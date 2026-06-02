@@ -4,8 +4,6 @@ Happily married and endlessly curious about **business, cultures, languages, mat
 
 I am an undergraduate **International Business** student at the **University of Wollongong in Dubai (UOWD)**. My studies give me a strong foundation in **international business, economics, marketing, and business strategy**, while my personal projects help me explore how digital products can solve practical problems for real users.
 
-I created **Pinyin Type**, a Chrome extension that helps Chinese learners type Pinyin with tone marks directly in the browser. The project has grown to **150+ daily users** and reflects my interest in combining **language learning, education, and digital products**.
-
 I am proficient in **Russian and English** (IELTS Band 8.0, July 2025), currently learning **Chinese and French**, and I am especially interested in digital products, automation, and AI-assisted software development. 
 
 ✉️ Contact me: musalimov.work@gmail.com | [LinkedIn](https://www.linkedin.com/in/musalimov/)
