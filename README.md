@@ -41,14 +41,4 @@ I am proficient in **Russian and English** (IELTS Band 8.0, July 2025), currentl
 
 ---
 
-## What I Am Currently Working On
-
-* Building practical Python and browser-based tools
-* Improving my software development portfolio on GitHub
-* Learning more about AI, automation, and product development
-* Studying international business, marketing, and strategy
-* Developing projects that combine languages, education, and technology
-
----
-
 > This space was intentionally left blank — until I come up with a good quote. 👀
