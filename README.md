@@ -2,9 +2,13 @@
 
 Happily married and endlessly curious about **business, cultures, languages, mathematics, and technology**.
 
-I am an undergraduate **International Business** student at the **University of Wollongong in Dubai (UOWD)**. My studies give me a strong foundation in **international business, economics, marketing, and business strategy**, while my personal projects help me explore how digital products can solve practical problems for real users.
+I am an undergraduate **International Business** student at the **University of Wollongong in Dubai (UOWD)**. 
 
-I am proficient in **Russian and English** (IELTS Band 8.0, July 2025), currently learning **Chinese and French**, and I am especially interested in digital products, automation, and AI-assisted software development. 
+Earlier, I studied at MGIMO and the Russian Foreign Trade Academy (RFTA) focusing on **economics, business, statistics, China's economics, and Chinese language**.
+
+I am especially interested in digital products, automation, AI-assisted software development. I build personal tools and projects that solve practical problems.
+
+I am proficient in **Russian and English** (IELTS Band 8.0, July 2025), currently learning **Chinese (HSK3, 2022) and French**.
 
 ✉️ Contact me: musalimov.work@gmail.com | [LinkedIn](https://www.linkedin.com/in/musalimov/)
 
